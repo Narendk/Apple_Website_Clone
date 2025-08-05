@@ -1,12 +1,40 @@
-# React + Vite
+**📱 Apple Store Clone**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive Apple Store Clone website built using React + Vite and styled with TailwindCSS. This project mimics the sleek UI and interactive experience of the official Apple Store website, with modern animations and component-based architecture.
 
-Currently, two official plugins are available:
+**🚀 Tech Stack**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React (with functional components and hooks)
 
-## Expanding the ESLint configuration
+Vite (for blazing fast development and build)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+TailwindCSS (utility-first responsive styling)
+
+GSAP (for smooth scroll-based animations and transitions)
+
+**🧩 Features**
+
+🔗 Component-Based Structure – Cleanly separated components for easy scalability and maintenance.
+
+🧭 Navigation Bar – Responsive navbar with toggle support for mobile view.
+
+🎞️ Image Sliders – Custom image sliders including auto-slide functionality.
+
+🌀 ScrollTriggers – Scroll-based animations for a dynamic UX using GSAP.
+
+🖼️ Image Sections – High-quality display image blocks for showcasing products.
+
+📱 Responsive Design – Optimized for mobile, tablet, and desktop devices.
+
+📦 Footer – Clean and minimalistic footer with essential links.
+
+
+**🛠️ Getting Started**
+
+Clone the repo
+
+git clone https://github.com/your-username/apple-store-clone.git
+
+npm install
+
+npm run dev
