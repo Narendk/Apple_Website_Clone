@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Force show arrows */
+.slick-prev,
+.slick-next {
+  z-index: 50; /* Make sure they are on top */
+  display: block !important;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style arrow icons */
+.slick-prev:before,
+.slick-next:before {
+  font-size: 30px;
+  color: black; /* Change based on your background */
+  opacity: 1;
+}
+
