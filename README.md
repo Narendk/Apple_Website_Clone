@@ -33,7 +33,7 @@ GSAP (for smooth scroll-based animations and transitions)
 
 Clone the repo
 
-git clone https://github.com/your-username/apple-store-clone.git
+git clone https://github.com/Narendk/Apple_Website_Clone.git
 
 npm install
 
